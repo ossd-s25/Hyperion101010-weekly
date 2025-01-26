@@ -5,11 +5,11 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Shivam Balikondwar
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2025
+description: CSCI-UA 480 Tutor, Spring 2025
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (the image should be located in the images 
@@ -32,12 +32,12 @@ excerpt_separator: <!--more-->
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: ssb10002@nyu.edu
   facebook:
   flickr:
   github: ossd-s25
   instagram:
-  linkedin:
+  linkedin: linkedin.com/in/sbalikondwar
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -50,7 +50,7 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://ossd-s25.github.io/weekly"
+url: "https://ossd-s25.github.io/Hyperion101010-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
