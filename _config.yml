@@ -9,7 +9,7 @@ name: Shivam Balikondwar
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Tutor, Spring 2025
+description: Fall24 MSCS student at NYU Courant and CSCI-UA 480 Tutor, Spring 2025
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (the image should be located in the images 
@@ -17,7 +17,7 @@ description: CSCI-UA 480 Tutor, Spring 2025
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: /weekly/images/icon.png 
+avatar: /Hyperion101010-weekly/images/icon.png 
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
@@ -35,7 +35,7 @@ footer-links:
   email: ssb10002@nyu.edu
   facebook:
   flickr:
-  github: ossd-s25
+  github: Hyperion101010
   instagram:
   linkedin: linkedin.com/in/sbalikondwar
   pinterest:
@@ -57,7 +57,7 @@ url: "https://ossd-s25.github.io/Hyperion101010-weekly"
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/Hyperion101010-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
