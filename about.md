@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi folks, Shivam here.
+I have contributed to open source organisations in the past.
 
-### More Information
+### A quick summary
 
-A place to include any other types of information that you'd like to include about yourself.
-
+It's always good to meet with people who are interested about similar things.
+If you are interested in learning more about me, I can be found solving programming questions in Bobst or exploring 34th street depending on the day.
